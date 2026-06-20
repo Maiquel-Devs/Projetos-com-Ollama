@@ -1,0 +1,7 @@
+- Objetivo: Entender como funciona uma requisição local (localhost) utilizando o Ollama.
+
+- Modelos instalados: Gemma 4 (mais lento, porém mais preciso) e Mistral (mais rápido, porém com menor precisão).
+
+- Possibilidades: Com esses modelos, é possível integrar informações, criar chatbots e desenvolver agentes de IA.
+
+- O que foi feito: Desenvolvi uma aplicação simples em Python para compreender o funcionamento da integração entre o código e o Ollama.

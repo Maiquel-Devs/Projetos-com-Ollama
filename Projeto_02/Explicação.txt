@@ -1,0 +1,1 @@
+- Nesse projeto habilitei o stream=True, isso faz com que as respostas sejam geradas aos poucos, de forma semelhante ao ChatGPT, em vez de esperar a resposta completa para exibi-la.
